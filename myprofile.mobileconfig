@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>WPA2</string>
 			<key>Password</key>
 			<string>SYwPTwof</string>
 			<key>PayloadDisplayName</key>
